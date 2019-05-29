@@ -1,2 +1,2 @@
-Administracija ispita
-=======================
+Prikaz postojećih ispita
+=========================
