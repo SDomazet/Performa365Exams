@@ -1,4 +1,6 @@
 Registrirajte se koristeći sljedeće podatke:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 #. Ime
 #. Prezime
 #. elektronička pošta
