@@ -29,7 +29,7 @@ eIspitni Sustav je platforma za polaganje pomorskih ispita.
    :hidden:
    :caption: OSNOVNI IZBORNIK
 
-   opcenito/osnovni_izbornik
+   opcenito/osnovna_navigacija
    
 
 .. toctree::
