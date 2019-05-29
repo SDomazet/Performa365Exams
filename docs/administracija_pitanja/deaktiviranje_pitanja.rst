@@ -1,1 +1,2 @@
-
+Deaktiviranje pitanja
+==========================
