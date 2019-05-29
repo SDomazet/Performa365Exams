@@ -4,6 +4,6 @@ Administrator ispita
 
 Administrator ispita može:
 
-#. kreirati novi ispit
-#. uređivati postojeći
-#. brisati ispit
+#. Kreirati novi ispit
+#. Uređivati postojeći
+#. Brisati ispit
