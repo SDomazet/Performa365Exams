@@ -7,7 +7,7 @@ eIspitni Sustav je platforma za polaganje pomorskih ispita.
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: ULOGE U SUSTAVU
+   :caption: PRIJAVA U SUSTAV
    
    prijava_u_sustav/registracija
    prijava_u_sustav/prijava
