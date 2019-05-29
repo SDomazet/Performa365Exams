@@ -12,7 +12,7 @@ Opis
 ======
 
 
-Odgovori, izbor ročnog odgovora
+Odgovori, izbor točnog odgovora
 ================================
 
 
