@@ -3,4 +3,4 @@ Ispitanik
 
 Ispitanik može:
 
-#. Pristupiti i polagati ispite
+- Pristupiti i polagati ispite
