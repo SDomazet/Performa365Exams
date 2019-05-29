@@ -1,7 +1,7 @@
 Administracija pitanja
 ========================
 
-Administrator pitanja može
+Administrator pitanja može:
 
 #. Dodati novo pitanje
 #. Promijeniti podatke o pitanjima
