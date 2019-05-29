@@ -1,5 +1,7 @@
-Registrirajte se koristeći sljedeće podatke:
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Registracija
+=============
+
+Registrirajte se u sustav koristeći sljedeće podatke:
 
 #. Ime
 #. Prezime
