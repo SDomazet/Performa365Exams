@@ -70,6 +70,7 @@ Vrijeme za odgovor
 Težina pitanja
 ^^^^^^^^^^^^^^^^^^
 
+- služi za formiranje grupa pitanja 
 - Odaberite težinu pitanja (1-10)
 
 Aktiviraj pitanje
