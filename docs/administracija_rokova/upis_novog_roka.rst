@@ -1,6 +1,6 @@
 Upis novog roka
 ==================
-- Korisnička uloga koja može dodati novi ispitni rok je :ref:`Administrator rokova <administrator_rokova>
+- Korisnička uloga koja može dodati novi ispitni rok je :ref:`Administrator rokova <administrator_rokova>`
 
 - U glavnom izborniku klikom na ikonu *rokovi* otvorit će se mogućnost upisa novog ispitnog roka
 
