@@ -7,7 +7,7 @@ Tip pitanja
 
 Odaberite tip pitanja: 
 
-- Select (odabir više ponuđenih odgovora 
+- Select (odabir više ponuđenih odgovora) 
 - Multiple (odabir višestrukih odgovora) 
 - Text (odabir tekstualnog pitanja)
 - Number (odabir ...
