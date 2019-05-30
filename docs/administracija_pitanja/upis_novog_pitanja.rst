@@ -1,5 +1,9 @@
+.. _dodavanje_pitanja:
+
 Upis novog pitanja
 ===================
+
+Korisnička uloga koja može dodati novo pitanje je :ref:`Administrator pitanja <administrator_pitanja>`
 
 
 Tip pitanja
