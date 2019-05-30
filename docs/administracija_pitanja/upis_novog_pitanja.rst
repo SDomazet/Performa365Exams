@@ -54,7 +54,7 @@ Privici pitanju
 Dodavanje privitka
 ***********
 
-- dodajte privitak pitanju (npr. sliku, slikovno pitanje)
+- Dodajte privitak pitanju (npr. sliku, slikovno pitanje)
 
 Brisanje privitka
 ************
