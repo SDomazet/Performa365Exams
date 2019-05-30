@@ -7,7 +7,6 @@ Uloge u sustavu
   :maxdepth: 1
   :name: toc-roles
   
-  administrator_sustava
   administrator_pitanja
   administrator_ispita
   administrator_rokova
