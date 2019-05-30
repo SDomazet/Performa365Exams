@@ -37,6 +37,7 @@ eIspitni Sustav je platforma za polaganje pomorskih ispita.
    :hidden:
    :caption: ADMINISTRACIJA PITANJA
 
+   administracija_pitanja/administracija_pitanja
    administracija_pitanja/prikaz_postojecih_pitanja
    administracija_pitanja/upis_novog_pitanja
    administracija_pitanja/izmjena_podataka_postojećeg_pitanja
