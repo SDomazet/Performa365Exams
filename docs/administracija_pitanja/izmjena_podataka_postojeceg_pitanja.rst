@@ -3,4 +3,4 @@
 Izmjena podataka postojećeg pitanja
 ===================================
 
-klikom na ikonu "olovke" izmijenite podatke u postojećem pitanju
+Klikom na ikonu "olovke" izmijenite podatke u postojećem pitanju
