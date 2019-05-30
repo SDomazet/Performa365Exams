@@ -2,3 +2,5 @@
 
 Izmjena podataka postojećeg pitanja
 ===================================
+
+klikom na ikonu "olovke" izmijenite podatke u postojećem pitanju
