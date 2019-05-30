@@ -11,10 +11,10 @@ Tip pitanja
 
 Odaberite tip pitanja: 
 
-- Select (odabir više ponuđenih odgovora) 
+- Select (odabir jednog od ponuđenih odgovora) 
 - Multiple (odabir višestrukih odgovora) 
-- Text (odabir tekstualnog pitanja)
-- Number (odabir ...
+- Text (upis tekstualnog odgovora)
+- Number (odabir broja iz određenog raspona)
 
 Jezik
 ^^^^^^^^^^^^^^
