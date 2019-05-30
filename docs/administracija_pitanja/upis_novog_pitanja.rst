@@ -51,12 +51,12 @@ Odabrite način bodovanja pitanja:
 Privici pitanju
 ^^^^^^^^^^^^^^^^^^
 
-Dodavanje
+Dodavanje privitka
 ***********
 
 - dodajte privitak pitanju (npr. sliku, slikovno pitanje)
 
-Brisanje
+Brisanje privitka
 ************
 
 - Obrišite privitak
