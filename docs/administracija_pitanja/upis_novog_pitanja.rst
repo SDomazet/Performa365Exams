@@ -72,7 +72,7 @@ Kategorija pitanja
 Spremanje
 ***********
 
-- Obavezno spremite pitanje kako ga ne bisate morali ponovo unositi
+- Obavezno spremite pitanje kako ga ne biste morali ponovo unositi
 
 Brisanje
 ************
