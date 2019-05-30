@@ -6,7 +6,7 @@ Kada se u glavnoj navigaciji klikne na pitanja, izlistat će se sva pitanja koja
 Kretanje kroz stranice
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Na dnu stranice u desnom kutu naći ćete "element po stranici" gdje možete birati broj prikazanih pitanja po stranici
+Na dnu stranice u desnom kutu naći ćete *Element po stranici* gdje možete birati broj prikazanih pitanja po stranici
 
 
 Pretraživanje/filtriranje
@@ -18,4 +18,4 @@ Pitanja možete pretraživati po tekstu, opisu, kategoriji, statusu i težini. F
 Sortiranje
 ^^^^^^^^^^^^^^^^
 
-?
+Sortiranje je funkcija na poljima koja imaju strelice, mijenja se redosljed podataka pitanja na toj stranici. zmjeničnim pritiskom na strelicu mijenja se prikaz podataka uzlazno, odnosno silazno.
