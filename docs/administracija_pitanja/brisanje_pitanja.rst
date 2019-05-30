@@ -2,3 +2,5 @@
 
 Brisanje pitanja
 ==================
+
+U polju "akcija" obrišite pitanje
