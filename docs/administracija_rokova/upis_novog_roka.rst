@@ -51,3 +51,5 @@ Brisanje ispitanika
 - U polju *Ispitanici* prikazat će Vam se popis ispitanika i polje *Akcije* u kojem je naznačen *x*, kliknite ga da biste obrisali ispitanika
 
 
+
+
