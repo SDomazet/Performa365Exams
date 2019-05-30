@@ -12,7 +12,7 @@ Na dnu stranice u desnom kutu naći ćete "element po stranici" gdje možete bir
 Pretraživanje/filtriranje
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Pitanja možete pretraživati po tekstu, opisu, kategoriji, statusu i težini. Filtrirati pitanja možete po kategoriji i težini.
+Pitanja možete pretraživati po tekstu, opisu, kategoriji, statusu i težini. Filtrirati pitanja možete po kategoriji, statusu i težini.
 
 
 Sortiranje
