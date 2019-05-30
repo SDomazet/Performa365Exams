@@ -7,3 +7,4 @@ Administrator pitanja može:
 - Promijeniti podatke o pitanjima
 - Aktivirati/deaktivirati pitanje
 - Obrisati pitanje (uz napomenu)
+
