@@ -53,6 +53,15 @@ Privici pitanju
 
 - dodajte privitak pitanju (npr. sliku, slikovno pitanje)
 
+Spremanje
+***********
+
+- Obavezno spremite pitanje kako ga ne biste morali ponovo unositi
+
+Brisanje
+************
+
+
 Vrijeme za odgovor
 ^^^^^^^^^^^^^^^^^^^^^^
 
@@ -73,13 +82,7 @@ Kategorija pitanja
 
 - Odaberite kategoriju pitanja (npr. Mehanika)
 
-Spremanje
-***********
 
-- Obavezno spremite pitanje kako ga ne biste morali ponovo unositi
-
-Brisanje
-************
 
 
 
