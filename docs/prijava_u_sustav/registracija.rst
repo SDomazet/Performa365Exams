@@ -15,3 +15,5 @@ Napomena:
 - Mora imati barem jedno veliko slovo
 - Mora sadržavati barem jedan znak koji nije alfanumerički
 - Mora sadržavati barem jedan broj 0-9
+
+Nakon unosa podataka u sva obvezna polja potrebno je kliknuti akcijski gumb *Potvrdi*.
