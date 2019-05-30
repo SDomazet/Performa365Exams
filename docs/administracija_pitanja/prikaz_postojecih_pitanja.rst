@@ -18,4 +18,4 @@ Pitanja možete pretraživati po tekstu, opisu, kategoriji, statusu i težini. F
 Sortiranje
 ^^^^^^^^^^^^^^^^
 
-Sortiranje je funkcija na poljima koja imaju strelice, mijenja se redosljed podataka pitanja na toj stranici. zmjeničnim pritiskom na strelicu mijenja se prikaz podataka uzlazno, odnosno silazno.
+Sortiranje je funkcija na poljima koja imaju strelice, mijenja se redosljed podataka pitanja na toj stranici. Izmjeničnim pritiskom na strelicu mijenja se prikaz podataka uzlazno, odnosno silazno.
