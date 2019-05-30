@@ -3,4 +3,4 @@
 Aktiviranje pitanja
 ========================
 
-U polju "Aktiviraj pitanje" kliknite na ikonu za aktivaciju kako bi se pitanje moglo koristiti u ispitima
+U polju *Aktiviraj pitanje* kliknite na ikonu za aktivaciju kako bi se pitanje moglo koristiti u ispitima
