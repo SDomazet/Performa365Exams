@@ -51,15 +51,15 @@ Odabrite način bodovanja pitanja:
 Privici pitanju
 ^^^^^^^^^^^^^^^^^^
 
-- dodajte privitak pitanju (npr. sliku, slikovno pitanje)
-
-Spremanje
+Dodavanje
 ***********
 
-- Obavezno spremite pitanje kako ga ne biste morali ponovo unositi
+- dodajte privitak pitanju (npr. sliku, slikovno pitanje)
 
 Brisanje
 ************
+
+- Obrišite privitak
 
 
 Vrijeme za odgovor
@@ -75,7 +75,7 @@ Težina pitanja
 Aktiviraj pitanje
 ^^^^^^^^^^^^^^^^^^^^^^
 
-- Aktivirajte pitanje kako bi se moglo koristiti u ipitu
+- Aktivirajte pitanje kako bi se moglo koristiti u ispitu
 
 Kategorija pitanja
 ^^^^^^^^^^^^^^^^^^^^
