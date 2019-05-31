@@ -12,26 +12,26 @@ Naziv grupe
 Kategorije
 ^^^^^^^^^^^^
 
-- upisuje se kategorija/područje kojem pitanje ispita pripada, npr. Mehanika
+- Upisuje se kategorija/područje kojem pitanje ispita pripada, npr. Mehanika
 
 Vrijeme za rješavanje
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-- upisuje se vremensko ograničenja trajanja ispita
+- Upisuje se vremensko ograničenja trajanja ispita
 
 Obavezni broj pitanja
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-- unesite obavezni broj pitanja koje grupa treba sadržavati
+- Unesite obavezni broj pitanja koje grupa treba sadržavati
 
 Indikator za nasumični raspored
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- klikom na ikonu u polju *Nasumični odabir* aktivira se nasumični odabir pitanja u grupi
+- Klikom na ikonu u polju *Nasumični odabir* aktivira se nasumični odabir pitanja u grupi
 
 Status grupe
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-- klikom na ikonu u polju *Aktiviraj grupu* aktiviramo grupu ako želimo da se pojavljuje na ispitnom roku
+- Klikom na ikonu u polju *Aktiviraj grupu* aktiviramo grupu ako želimo da se pojavljuje na ispitnom roku
 
 
