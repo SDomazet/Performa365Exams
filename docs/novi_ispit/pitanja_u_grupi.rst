@@ -14,7 +14,7 @@ Prijenos pitanja u grupu iz kataloga pitanja
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - U lijevom prozoru polja *Lista grupa* klikom na određenu grupu gdje će se s desne strane pojaviti Lista pitanja za grupu npr. Pomorsko pravo možemo prenijeti pitanja iz *Kataloga pitanja* ako odaberemo naređenje *Prenesi pitanja*
-- Otvoriti će se novi prozor *Grupa pitanja* s ponuđenim pitanjima koja pripadaju prethofno odabranoj kategoriji
+- Otvoriti će se novi prozor *Grupa pitanja* s ponuđenim pitanjima koja pripadaju prethodno odabranoj kategoriji
 - odaberemo pitanja klikom lijevo na kučice pored pitanja i kliknemo naredbu *Prenesi*
 
 .. napomena:: Svaka grupa ima broj obaveznih pitanja npr. 3, a mi možemo u grupu dodati npr. 6 pitanja, a sustav će sam odabirati mix pitanja koja će vrtjeti u grupi
