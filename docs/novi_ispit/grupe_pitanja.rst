@@ -1,6 +1,16 @@
 Grupe pitanja
 =============
 
+- Grupe pitanja uređujemo tako da u glavnom izborniku odaberemo ikonu *Ispiti*
+- Otvorit će nam se novi prozor naziva  *Uređivanje ispita* koji sadrži *Osnovne informacije* o ispitu:
+
+#. Naziv 
+#. Zvanje
+#. Kategorija pitanja
+#. Ispitno vrijeme 
+#. Status ispita (aktivan/neaktivan)
+
+
 - Radnju dodavanja nove grupe pitanja vršimo tako da u polju *Lista grupa* s desne strane kliknemo na ikonu *+*
 - Otvoriti će nam se novi prozor *Dodaj grupu*
 
