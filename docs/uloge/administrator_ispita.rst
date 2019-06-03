@@ -1,3 +1,4 @@
+.. _administrator_ispita:
 
 Administrator ispita
 =====================
