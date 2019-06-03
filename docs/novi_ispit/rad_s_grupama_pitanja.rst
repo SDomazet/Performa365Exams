@@ -5,13 +5,13 @@ Korisnička uloga koja može uređivati grupe pitanja je :ref:`Administrator isp
 
 Promjena redoslijeda grupa
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Pomjena redosljeda grupe nalazi se u polju *Lista grupa* > znakvni prikaz crtica
+- Pomjena redosljeda grupe nalazi se u polju *Lista grupa* > znakovni prikaz crtica
 - Ovoriti će se novi prozor naziva *Promjena rasporeda* u kojem povlačenjem miša možemo mijenjati redoslijed pojavljivanja grupa na ispitu
 
 Brisanje grupe
 ^^^^^^^^^^^^^^^^
 
-- Ako želimo izvršiti radnju brisanja pojedinačnih grupa to ćemo napraviti klikom na pojedinačnu grupu koja sadrži ikonu koša za smeće pod poljem *Lista grupa*
+- Ako želimo izvršiti brisanje pojedinačnih grupa to ćemo napraviti klikom na pojedinačnu grupu koja sadrži ikonu koša za smeće pod poljem *Lista grupa*
 - Otvorit će nam se novi prozor u kojem će pisati *Ova grupa će biti uklonjena zajedno sa listom pitanja! Da li ste sigurni?*, klikom na polje *Confirm* (potvrdi) obrisat će se označena grupa
 
 Brisanje svih grupa u ispitu
