@@ -1,3 +1,5 @@
+.. _administrator_rokova:
+
 Administrator rokova
 =========================
 
