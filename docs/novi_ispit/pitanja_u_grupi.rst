@@ -8,7 +8,7 @@ Dodavanje/upis novog pitanja
 
 U lijevom prozoru polja *Lista grupa* klikom na određenu grupu dodajemo pitanja u toj grupi
 - opcija dodaj novo pitanje odnosi se na dodavanje pitanja koja nismo prethodno već upisali u glavnom izborniku pod *Pitanja*
-- novo pitanje će se dodati prvo u polje *Pitanja* na glavnom izborniku pa tek onda na ispit
+- novo pitanje će se dodati u popis pitanja pa tek onda na ispit u odgovarajuću grupu
 
 Prijenos pitanja u grupu iz kataloga pitanja
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
