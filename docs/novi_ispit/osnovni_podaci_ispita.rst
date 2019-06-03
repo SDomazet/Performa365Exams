@@ -2,7 +2,7 @@ Osnovni podaci ispita
 ========================
 
 #. U navigacijskoj traci odaberite *Ispiti* 
-#. U lijevom gornjem kutu odaberite *Novi ispit*
+#. U lijevom gornjem kutu odaberite naredbu *Novi ispit*
 #. Otvorit će se novi prozor kako slijedi: 
 
 Naziv ispita
