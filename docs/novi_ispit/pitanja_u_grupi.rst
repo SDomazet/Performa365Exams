@@ -17,7 +17,7 @@ Prijenos pitanja u grupu iz kataloga pitanja
 - Otvoriti će se novi prozor *Grupa pitanja* s ponuđenim pitanjima koja pripadaju prethodno odabranoj kategoriji
 - Odaberemo pitanja klikom lijevo na kučice pored pitanja i kliknemo naredbu *Prenesi*
 
-.. napomena:: Svaka grupa ima broj obaveznih pitanja npr. 3, a mi možemo u grupu dodati npr. 6 pitanja, a sustav će sam odabirati mix pitanja koja će vrtjeti u grupi
+.. note:: Svaka grupa ima broj obaveznih pitanja npr. 3, a mi možemo u grupu dodati npr. 6 pitanja, a sustav će sam odabirati mix pitanja koja će vrtjeti u grupi
 
 Brisanje pitanja iz grupe
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
