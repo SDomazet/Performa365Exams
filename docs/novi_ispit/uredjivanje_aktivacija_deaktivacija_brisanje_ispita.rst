@@ -12,7 +12,7 @@ Aktivacija/deaktivacija ispita
 
 - U glavnom izborniku odaberemo ikonu *Ispiti* gdje će se otvoriti popis upisanih ispita
 - Klikom na naredbu *Edit* (oznaka olovke) otvorit će se prozor *Uređivanje ispita*
-- Klikom na *Osnovne informacije ispod *Uređivanje ispita* otvorit će se izbornik u kojem klikom na naredbu *Aktiviraj ispit* možemo aktivirati i deaktivirati ispit
+- Klikom na *Osnovne informacije* ispod *Uređivanje ispita* otvorit će se izbornik u kojem klikom na naredbu *Aktiviraj ispit* možemo aktivirati i deaktivirati ispit
 - Nakon toga potrebno je izmjene koje smo napravili i spremiti, klikom na naredbu *Spremi* u donjem desnom kutu
 
 Brisanje ispita
