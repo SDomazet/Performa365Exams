@@ -1,7 +1,7 @@
 Pitanja u grupi 
 ================
 
-Kad je stvorena nova grupa pitanja, u nju će se moći dodavati pitanja samo iz kategorija (može ih biti više) koje su odabrane u grupi (npr. Zaštita na radu, Sigurnost plovidbe) 
+Kad je stvorena nova grupa pitanja, u nju će se moći dodavati pitanja samo iz kategorija (jedno pitanje može biti u više kategorija) koje su odabrane u grupi (npr. Zaštita na radu, Sigurnost plovidbe) 
 
 Dodavanje/upis novog pitanja
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
