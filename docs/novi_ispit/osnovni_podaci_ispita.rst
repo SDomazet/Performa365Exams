@@ -1,6 +1,10 @@
 Osnovni podaci ispita
 ========================
 
+#. U navigacijskoj traci odaberite *Ispiti* 
+#. U lijevom gornjem kutu odaberite *Novi ispit*
+#. Otvorit će se novi prozor kako slijedi: 
+
 Naziv ispita
 ^^^^^^^^^^^^^
 
