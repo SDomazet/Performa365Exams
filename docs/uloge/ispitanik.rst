@@ -1,3 +1,5 @@
+.. _ispitanik:
+
 Ispitanik
 =============
 
