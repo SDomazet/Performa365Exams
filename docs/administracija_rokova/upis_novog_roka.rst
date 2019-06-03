@@ -50,7 +50,7 @@ Prezime
 Brisanje ispitanika
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-- U polju *Ispitanici* klikom na ikonu *Uredi* prikazat će Vam se popis ispitanika i polje *Akcije* u kojem je naznačen *x*, kliknite ga da biste obrisali ispitanika
+- U polju *Ispitanici* klikom na ikonu *Uredi* prikazat će Vam se popis ispitanika i polje *Akcije* u kojem je naznačen *X*, kliknite ga da biste obrisali ispitanika
 
 
 
