@@ -22,7 +22,7 @@ Prijenos pitanja u grupu iz kataloga pitanja
 Brisanje pitanja iz grupe
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- U polju *Lista pitanja za grupu XY* gdje su izlistana odabrana pitanja, desno u polju *Akcija* klikon na naredbu **-** brišemo pojedinačno pitanje iz grupe 
+- U polju *Lista pitanja za grupu XY* gdje su izlistana odabrana pitanja, desno u polju *Akcija* klikom na naredbu **-** brišemo pojedinačno pitanje iz grupe 
 - otvorit će se novi prozor u kojem će pisati *Jeste li sigurni da zelite ukloniti pitanje iz liste?*, klikom na naredbu *Confirm* (potvrdi) izbrisat će se odabrano pitanje
 
 Brisanje svih pitanja u grupi
