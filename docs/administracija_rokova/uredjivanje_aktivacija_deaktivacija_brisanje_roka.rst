@@ -19,7 +19,7 @@ Aktivacija/deaktivacija roka
 
 Što se događa „u pozadini“
 ***************************
-•	Instance ispita za svakog ispitanika na roku
+•	Kreiranje instance ispita za svakog ispitanika na roku
 •	Kreiranje privremene lozinke za prijavu ispitanika kod polaganja
 
 Brisanje roka
@@ -28,4 +28,4 @@ Brisanje roka
 - U glavnom izborniku odaberemo ikonu *Rokovi* gdje će se otvoriti popis upisanih rokova
 - U navigacijskoj traci u polju *Akcije* odaberemo naredbu *Obriši*
 - Otvoriti će se novi prozor s pitanjem *Jeste li sigurni da zelite izbrisati ispitni rok?*
-- Ukoliko ste sigurni da želite izbrisati ispitni rok kliknite narebu *Confirm* (potvrdi) i ispitni rok će biti trajno izbrisan
+- Ukoliko ste sigurni da želite izbrisati ispitni rok kliknite naredbu *Confirm* (potvrdi) i ispitni rok će biti trajno izbrisan
