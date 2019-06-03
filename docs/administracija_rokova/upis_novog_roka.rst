@@ -29,6 +29,8 @@ Lokacija
 Upis ispitanika
 ^^^^^^^^^^^^^^^^^^
 
+U glavnom izborniku klikom na ikonu *Rokovi* otvorit će se popis postojećih rokova. Klikom na ikonu *Uredi* otvorit će se novi prozor gdje se uređuje sam ispitni rok i popis ispitanika
+
 OIB
 ******
 
