@@ -5,7 +5,7 @@ Izmjena podataka postojećeg roka
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - U glavnom izborniku odaberemo ikonu *Rokovi* gdje će se otvoriti popis upisanih rokova
-- Klikom na naredbu *Promijeni* (oznaka olovke) u polju *Akcije* uređujemo postojeći rok
+- Klikom na naredbu *Uredi* (oznaka olovke) u polju *Akcije* uređujemo postojeći rok
 - Otvorit će se novi prozor *Uredi ispitni rok* gdje unosimo željene izmjene
 
 Aktivacija/deaktivacija roka
@@ -13,7 +13,7 @@ Aktivacija/deaktivacija roka
 
 - U glavnom izborniku odaberemo ikonu *Rokovi* gdje će se otvoriti popis upisanih rokova
 - Klikom na naredbu *Aktiviraj* u polju *Akcije* aktivirat će se ispitni rok i oznaka kvačice će promijeniti boju u zeleno
-- Isti postupak se obavlja kod deaktivacije roka, kliokm na zelenu kvačicu, radnja *Aktiviraj*, otvoriti će se novi prozor s pitanjem *Jeste li sigurni da zelite deaktivirati ispitni rok?*
+- Isti postupak se obavlja kod deaktivacije roka, kliokm na zelenu kvačicu, radnja *Aktiviraj*, otvoriti će se novi prozor s pitanjem *Jeste li sigurni da želite deaktivirati ispitni rok?*
 - Klikom na narebu *Confirm* (potvrdi) deaktivirat će se ispitni rok
 
 
