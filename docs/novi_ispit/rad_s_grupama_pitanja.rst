@@ -19,5 +19,5 @@ Brisanje svih grupa u ispitu
 
 - Radnja  brisanja svih grupa u ispitu vrši se u istom redu polja *Lista grupa* klikom na oznaku koša za smeće s crticama 
 
-.. napomena:: Ukoliko izvršite ovu radnju, sve grupe koje ste do sada kreirali biti će trajno i nepovratno izbrisane.
+.. note:: Ukoliko izvršite ovu radnju, sve grupe koje ste do sada kreirali biti će trajno i nepovratno izbrisane.
 
