@@ -5,6 +5,9 @@ Upis novog pitanja
 
 Korisnička uloga koja može dodati novo pitanje je :ref:`Administrator pitanja <administrator_pitanja>`
 
+#. Na glavnom izborniku odaberite *Pitanja* 
+#. U gornjem lijevom kutu odaberite naredbu *Dodaj pitanje*
+#. Otvorit će se novi prozor kako slijedi:
 
 Tip pitanja
 ^^^^^^^^^^^^^^^^^^
