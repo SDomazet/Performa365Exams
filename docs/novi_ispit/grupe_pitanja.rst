@@ -39,6 +39,8 @@ Indikator za nasumični raspored
 
 - Klikom na ikonu u polju *Nasumični odabir* aktivira se nasumični odabir pitanja u grupi
 
+- Nasumični raspored podrazumijeva da će se pitanja prilikom stvarnog polaganja ispita pojavljivati slučajnim redoslijedom odnosno, ako je indikator isključen, pitanja će se prikazivati redoslijedom kojim su upisana.
+
 Status grupe
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
