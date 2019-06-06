@@ -7,6 +7,12 @@ Dio je to platforme za upravljanje znanjem i učenjem **Performa 365**. Ujedno, 
 
 Platforma se sastoji od dva dijela, tzv. **Back Office** dijela, u kojemu autori stvaraju i održavaju katalog pitanja i registar ispita za pojedina stručna zvanja i tzv. **Front Office** dijela, aplikacije za polaganje ispita (Player ispita). 
 
+.. image:: exam-flow.png
+   :align: center
+
+.. 
+
+
 Sustav je pripremljen za dva osnovna načina rada:
 
 -	Kao podrška ispitnim centrima, ovlaštenim i posebno opremljenim lokacijama gdje ispitanici dolaze položiti ispite i 
