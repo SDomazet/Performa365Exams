@@ -103,7 +103,7 @@ Sve se aktivnosti u sustavu evidentiraju što omogućuje detaljnu analizu i nakn
    :hidden:
    :caption: MONITORING ROKA
    
-   monitoring_roka/monitoring_roka
+   monitoring_roka
    
 
   
