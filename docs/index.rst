@@ -98,6 +98,12 @@ Sve se aktivnosti u sustavu evidentiraju što omogućuje detaljnu analizu i nakn
    administracija_rokova/uredjivanje_aktivacija_deaktivacija_brisanje_roka
    administracija_rokova/ispis_liste_za_rok
    
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: MONITORING ROKA
+   
+   monitoring_roka/monitoring_roka
    
 
   
