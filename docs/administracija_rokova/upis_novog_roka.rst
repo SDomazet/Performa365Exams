@@ -2,7 +2,7 @@ Upis novog roka
 ==================
 - Korisnička uloga koja može dodati novi ispitni rok je :ref:`Administrator rokova <administrator_rokova>`
 
-- U glavnom izborniku klikom na ikonu *Rokovi* otvorit će se mogućnost upisa novog ispitnog roka
+- U glavnom izborniku klikom na naređenje *Rokovi* otvorit će se mogućnost upisa novog ispitnog roka
 
 Odabir ispita
 ^^^^^^^^^^^^^^^^^^
@@ -34,7 +34,7 @@ U glavnom izborniku klikom na ikonu *Rokovi* otvorit će se popis postojećih ro
 OIB
 ******
 
-- Unesite OIB ispitanika
+- Unesite OIB ispitanika, ako ispitanik nema OIB dodijelite mu jedinstveni broj
 
 Ime
 *****
@@ -50,7 +50,7 @@ Prezime
 Brisanje ispitanika
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-- U polju *Ispitanici* klikom na ikonu *Uredi* prikazat će Vam se popis ispitanika i polje *Akcije* u kojem je naznačen *X*, kliknite ga da biste obrisali ispitanika
+- U polju *Ispitanici* klikom na naređenje *Uredi* prikazat će Vam se popis ispitanika i polje *Akcije* u kojem je naznačen *X*, kliknite ga da biste obrisali ispitanika
 
 
 
