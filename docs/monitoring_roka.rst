@@ -5,7 +5,7 @@ Monitoring roka
 - U navigacijskoj traci u polju Akcije odaberemo naredbu *Monitoring*
 - Otvoriti će se tri nova prozora:
 
-#. Informacije o roku; naziv roka, voditelj roka, datum održavanja roka, soba gdje se rok održava, zvanje za koje se polaže rok i trajanje roka
+#. Osnovne informacije o roku; naziv roka, voditelj roka, datum održavanja roka, soba gdje se rok održava, zvanje za koje se polaže rok i trajanje roka
 #. Popis sudionika roka - njihov status, preostalo vrijeme za ispit i polje *Akcije* gdje se ???
 
 - nudi sljedeće naredbe: *Pauziraj sve*, *Nastavi sve*, *Završi ispit za sve*
