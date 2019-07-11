@@ -17,3 +17,12 @@ Monitoring roka
 - Ukupno položilo:	
 - Ukupno palo:	
 - Ukupno diskvalificirano:	
+
+Prije ispitnog roka
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+Za vrijeme ispitnog roka
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Nakon ispitnog roka
+^^^^^^^^^^^^^^^^^^^^^^
