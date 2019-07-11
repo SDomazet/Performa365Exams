@@ -110,10 +110,10 @@ Sve se aktivnosti u sustavu evidentiraju što omogućuje detaljnu analizu i nakn
    :hidden:
    :caption: MONITORING ROKA
    
-   monitoring_roka
-   prije_ispitnog_roka
-   za_vrijeme_ispitnog_roka
-   nakon_ispitnog_roka
+   monitoring_roka/monitoring_roka
+   monitoring_roka/prije_ispitnog_roka
+   monitoring_roka/za_vrijeme_ispitnog_roka
+   monitoring_roka/nakon_ispitnog_roka
    
 
   
