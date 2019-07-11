@@ -46,6 +46,13 @@ Sve se aktivnosti u sustavu evidentiraju što omogućuje detaljnu analizu i nakn
 
    uloge/index
    
+   .. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: POČETNI EKRAN
+
+   pocetni_ekran
+   
    
 .. toctree::
    :maxdepth: 2
