@@ -5,3 +5,5 @@ Početni ekran sadrži prikaz od šest osnovnih elemenata o ispitnom sustavu. Sv
 
 .. image:: pocetni_ekran_screen.png
    :align: center
+
+
