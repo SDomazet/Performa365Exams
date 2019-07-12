@@ -1,14 +1,14 @@
 Za vrijeme ispitnog roka
 =============================
 
+.. image:: za_vrijeme_ispita.png
+   :align: center
+
 Prikaz statusa ispitanika na monitoringu roka
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Prikaz stanja tajmera svakog ispitanika, refresh 5 sec
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Prikaz rezultata svakog ispitanika nakon zaključenja roka
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Mogućnost pauziranja jednog ispitanika 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
