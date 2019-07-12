@@ -3,7 +3,7 @@ Prije ispitnog roka
 
 Kada se kreira ispitni rok u polju *Akcije* prikazat će se iduće funkcije
 
-.. image:: rok_funkcije1.png
+.. image:: rok_funkcije0.png
    :align: center
 
 Izbor monitoringa aktiviranog roka
