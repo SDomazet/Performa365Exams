@@ -4,26 +4,19 @@ Za vrijeme ispitnog roka
 .. image:: za_vrijeme_ispita.png
    :align: center
 
-Prikaz statusa ispitanika na monitoringu roka
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+1. Prikaz statusa ispitanika na monitoringu roka
 
-Prikaz stanja tajmera svakog ispitanika, refresh 5 sec
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2. Prikaz stanja tajmera svakog ispitanika, refresh 5 sec
 
-Mogućnost pauziranja jednog ispitanika 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+3. Mogućnost pauziranja jednog ispitanika 
 
-Mogućnost pauziranja svih ispitanika odjednom
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+4. Mogućnost pauziranja svih ispitanika odjednom
 
-Mogućnost nastavka rada jednog ispitanika 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+5. Mogućnost nastavka rada jednog ispitanika 
 
-Mogućnost nastavka rada svih ispitanika
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+6. Mogućnost nastavka rada svih ispitanika
 
-Mogućnost isključenja nekog ispitanika zbog nepravilnosti - upis razloga
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+7. Mogućnost isključenja nekog ispitanika zbog nepravilnosti - upis razloga
 
-Mogućnost zaključenja ispita
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+8. Mogućnost zaključenja ispita
+
