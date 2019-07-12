@@ -10,5 +10,5 @@ Nakon ispitnog roka
 
 3. Prikaz grafikona postotka prolaznosti po grupama pitanja na roku
 
-4. Izbor tipa grafa: radar ili bar, za 2 i manje grupa obavezno bar
+4. Izbor tipa grafa: radar ili bar, za dvije i manje grupa obavezno bar
 
