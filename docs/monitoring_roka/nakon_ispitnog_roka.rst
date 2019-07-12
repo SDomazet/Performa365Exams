@@ -1,14 +1,14 @@
 Nakon ispitnog roka
 =======================
 
-Prikaz statistike ispitanika na ispitu: prijavljeno, pristupilo, prošlo, palo, isključeno
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: nakon_ispitnog_roka.png
+   :align: center
 
-Prikaz rezultata svakog ispitanika nakon zaključenja roka
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+1. Prikaz statistike ispitanika na ispitu: prijavljeno, pristupilo, prošlo, palo, isključeno
 
-Prikaz grafikona postotka prolaznosti po grupama pitanja na roku
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2. Prikaz rezultata svakog ispitanika nakon zaključenja roka
 
-Izbor tipa grafa: radar ili bar, za 2 i manje grupa obavezno bar
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+3. Prikaz grafikona postotka prolaznosti po grupama pitanja na roku
+
+4. Izbor tipa grafa: radar ili bar, za 2 i manje grupa obavezno bar
+
