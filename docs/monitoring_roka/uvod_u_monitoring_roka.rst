@@ -12,4 +12,7 @@ Uvod u monitoring roka
 #. Popis ispitanika roka 
 #. U desnom kutu prikazana je *Statistika o ispitu* 
 
+.. image:: monitoring_pocetna.png
+   :align: center
+
 Po zaključenju ispitnog roka će se pojaviti četvrti blok sa grafičkim prikazom rezultata.
