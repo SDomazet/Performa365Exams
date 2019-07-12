@@ -8,17 +8,8 @@ Uvod u monitoring roka
 
 - Inicijalno će se otvoriti tri nova bloka informacija:
 
-#. Osnovne informacije o roku; naziv roka, voditelj roka, datum održavanja roka, lokacija gdje se rok održava, zvanje za koje se polaže ispit i trajanje roka
-#. Popis ispitanika roka - njihov status, preostalo vrijeme za ispit i polje *Akcije* 
-
-- Sustav nudi sljedeće opcije: *Pauziraj sve*, *Nastavi sve*, *Završi rok*
-
-3. U desnom kutu prikazana je *Statistika o ispitu* sa sljedećim stanjima:
-
-- Prijavljeno:	
-- Pristupilo:	
-- Položilo:	
-- Palo:	
-- Isključeno:	
+#. Osnovne informacije o roku
+#. Popis ispitanika roka 
+#. U desnom kutu prikazana je *Statistika o ispitu* 
 
 Po zaključenju ispitnog roka će se pojaviti četvrti blok sa grafičkim prikazom rezultata.
