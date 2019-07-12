@@ -15,7 +15,7 @@ Kada se kreira ispitni rok u polju *Akcije* prikazat će se iduće funkcije kako
 Izbor monitoringa aktiviranog roka
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Rok se može uređivati sve dok ga ne aktiviramo, a kada ga aktiviramo kvačica koja označava akciju *Aktiviraj* će pozeleniti i tada će se prikazati akcija *Monitoring*
+Rok se može uređivati sve dok ga ne aktiviramo, a kada ga aktiviramo kvačica koja označava akciju *Aktiviraj* će pozeleniti i tada će se prikazati akcija *Monitoring*:
 
 .. image:: rok_funkcije1.png
    :align: center
