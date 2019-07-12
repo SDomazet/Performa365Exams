@@ -1,7 +1,7 @@
 Za vrijeme ispitnog roka
 =============================
 
-.. image:: za_vrijeme_ispita.png
+.. image:: za_vrijeme_ispita1.png
    :align: center
 
 1. Prikaz statusa ispitanika na monitoringu roka
