@@ -52,7 +52,7 @@ Status ispitanika:
 
 - Ako ispitanik nije došao, voditelj roka klikom na opciju X potvrđuje da kandidat nije prisutan. U polju akcije se pojavljuje oznaka kružne strelice, a *Status* se izmijeni u *Ispitanik se nije pojavio*
 
-.. note:: Ispitanik može početi s rješavanjem ispita isključivo uz potvrdu prisutnosti voditelja roka, tada će se na njegovom ekranu prikazati opcija *Kreni* i ispitnaik može početi s ispitom.
+.. note:: Ispitanik može početi s rješavanjem ispita isključivo uz potvrdu prisutnosti voditelja roka, tada će se na njegovom ekranu prikazati opcija *Kreni* i ispitanik može početi s ispitom.
 
 Ipak je došao
 ^^^^^^^^^^^^^^
@@ -64,5 +64,5 @@ Ipak je došao
 Ipak nije došao
 ^^^^^^^^^^^^^^^^^
 
-- U slučaju da je kandidat potvrđen greško, klikom na zelenu kvačicu u polju *Akcije* otvorit će se prozor s pitanjem *Jeste li sigurni da želite odjaviti kandidata?*
+- U slučaju da je kandidat potvrđen greškom, klikom na zelenu kvačicu u polju *Akcije* otvorit će se prozor s pitanjem *Jeste li sigurni da želite odjaviti kandidata?*
 - klikom na potvrdi mijenja se ispitanikov status u "čekanje na potvrdu"
