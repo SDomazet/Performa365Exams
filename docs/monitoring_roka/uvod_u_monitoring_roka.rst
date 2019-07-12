@@ -21,4 +21,4 @@ Uvod u monitoring roka
 - Palo:	
 - Isključeno:	
 
-- Po zaključenju ispitnog roka će se pojaviti četvrti blok sa grafičkim prikazom rezultata.
+Po zaključenju ispitnog roka će se pojaviti četvrti blok sa grafičkim prikazom rezultata.
