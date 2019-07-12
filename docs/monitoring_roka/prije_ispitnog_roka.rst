@@ -48,7 +48,7 @@ Potvrda prisutnosti ispitanika ili nije došao
 
 Status ispitanika: 
 
-- npr. *Čekanje na potvrdu* - čeka se da voditelj roka potvrdi da je ispitanik prisutan; *Ispitanik potvrđen* - voditelj roka je potvrdio da je ispitanik prisutan klikom na kvačicu i kvačica u polju *Akcije* pozeleni
+- Npr. *Čekanje na potvrdu* - čeka se da voditelj roka potvrdi da je ispitanik prisutan; *Ispitanik potvrđen* - voditelj roka je potvrdio da je ispitanik prisutan klikom na kvačicu i kvačica u polju *Akcije* pozeleni
 
 - Ako ispitanik nije došao, voditelj roka klikom na opciju X potvrđuje da kandidat nije prisutan. U polju akcije se pojavljuje oznaka kružne strelice, a *Status* se izmijeni u *Ispitanik se nije pojavio*
 
@@ -57,12 +57,12 @@ Status ispitanika:
 Ipak je došao
 ^^^^^^^^^^^^^^
 
-- *kružna strelica* daje mogućnost izmjenu statusa ispitanika u slučaju da se ispitanik ipak pojavi
-- klikom na kružnu strelicu otvara se prozor s pitanjem *Želite li potvrditi da je kandidat prisutan?*, klikom na *Potvrdi* u polju *Akcije* ponovo će se prikazati oznaka "kvačice" i "X"
+- *Kružna strelica* daje mogućnost izmjenu statusa ispitanika u slučaju da se ispitanik ipak pojavi
+- Klikom na kružnu strelicu otvara se prozor s pitanjem *Želite li potvrditi da je kandidat prisutan?*, klikom na *Potvrdi* u polju *Akcije* ponovo će se prikazati oznaka "kvačice" i "X"
 - U tom slučaju je potrebno klikon na kvačicu potvrditi konačnu prisutnost i kvačica mora "pozeleniti" 
 
 Ipak nije došao
 ^^^^^^^^^^^^^^^^^
 
 - U slučaju da je kandidat potvrđen greškom, klikom na zelenu kvačicu u polju *Akcije* otvorit će se prozor s pitanjem *Jeste li sigurni da želite odjaviti kandidata?*
-- klikom na potvrdi mijenja se ispitanikov status u "čekanje na potvrdu"
+- Klikom na potvrdi mijenja se ispitanikov status u "čekanje na potvrdu"
