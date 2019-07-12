@@ -4,6 +4,9 @@ Nakon ispitnog roka
 Prikaz statistike ispitanika na ispitu: prijavljeno, pristupilo, prošlo, palo, isključeno
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Prikaz rezultata svakog ispitanika nakon zaključenja roka
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Prikaz grafikona postotka prolaznosti po grupama pitanja na roku
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
