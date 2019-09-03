@@ -24,8 +24,8 @@ Sortiranje je funkcija na poljima koja imaju strelice, mijenja se redosljed poda
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #. Možemo poništiti sve filtere koje/ako smo prethodno pretraživali po tekstu, opisu, kategoriji, statusu i težini.
-#. Klikom na ikonu *Uredi* otvorit će se prozor naziva *Uredi pitanje* gdje možemo uređivati/mijenjati postojeće pitanje
-#. Klikom na ikonu *Kopiraj* otvorit će se prozor naziva *Uredi pitanje*. Tu možemo izmijeniti pitanje kako ne bismo ponovo stvarali novo pitanje koje može biti po strukturi slično. Uredimo promjene i kliknemo *ažuriraj*. Pitanje će biti prikazano kao *KOPIJA*
-#. Klikom na ikonu *Obriši* otvorit će se prozor *Potvrdite akciju Pitanje će biti trajno izbrisano. Jeste li sigurni?* Ako ste sigurni da želite obrisati pitanje klikom na *Potvrdi* trajno će se obrisati pitanje
-#. Klikom na ikonu *Info* prikazat će se informacije o pitanju, u kojem se ispitu pojavilo pitanje, koliko puta i grafički prikaz točnih odgovora, netočnih i neodgovorenih
+#. Klikom na funkciju *Uredi* otvorit će se prozor naziva *Uredi pitanje* gdje možemo uređivati/mijenjati postojeće pitanje
+#. Klikom na funkciju *Kopiraj* otvorit će se prozor naziva *Uredi pitanje*. Tu možemo izmijeniti pitanje kako ne bismo ponovo stvarali novo pitanje koje može biti po strukturi slično. Uredimo promjene i kliknemo *ažuriraj*. Pitanje će biti prikazano kao *KOPIJA*
+#. Klikom na funkciju *Obriši* otvorit će se prozor *Potvrdite akciju Pitanje će biti trajno izbrisano. Jeste li sigurni?* Ako ste sigurni da želite obrisati pitanje klikom na *Potvrdi* trajno će se obrisati pitanje
+#. Klikom na funkciju *Info* prikazat će se informacije o pitanju, u kojem se ispitu pojavilo pitanje, koliko puta i grafički prikaz točnih odgovora, netočnih i neodgovorenih
 
