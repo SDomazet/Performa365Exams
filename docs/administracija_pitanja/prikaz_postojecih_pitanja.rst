@@ -1,7 +1,7 @@
 Prikaz postojećih pitanja
 ==========================
 
-Kada se u glavnoj navigaciji klikne na pitanja, izlistat će se sva pitanja koja su unesena u aplikaciju
+Kada se u glavnom izborniku odabere *Pitanja*, izlistat će se sva pitanja koja su unesena u aplikaciju
 
 Kretanje kroz stranice
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
