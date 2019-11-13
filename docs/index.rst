@@ -121,6 +121,8 @@ Sve se aktivnosti u sustavu evidentiraju što omogućuje detaljnu analizu i nakn
    :hidden:
    :caption: PROFIL
    
+   moj_profil
+   
    
    
 
