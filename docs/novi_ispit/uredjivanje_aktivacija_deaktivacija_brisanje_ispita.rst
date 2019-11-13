@@ -26,4 +26,12 @@ Brisanje ispita
 Lista prijava
 ^^^^^^^^^^^^^^^^^^^^
 
+Klikom na funkciju *Lista prijava* otvorit će se novi prozor u koji možemo dodati pristupnike za ispit. 
+
+#. Funkcija *novi pristupnik* otvara manji prozor s poljima: OIB, ime i prezime. Svaki pristupnik koji je već dodan, upisom OIB-a sustav će prikazati da korisnik već postoji
+#. Možemo dodati *pristupnika s liste* - otvorit će se novi prozor s popisom pristupnika koji su već upisani
+#. Klikom na funkciju *obriši listu prijava* uklonit ćemo sve upisane.
+ 
+
+Svaki upisani pristupnik ima **stanje** odnosno status prijave koji označava proces odobravanja prijave za ispit, ako organizacija koristi takav poslovni slijed. Odabirom Funkcije *povijest promjene stanja* otvara se novi prozor u kojem se prati proces kroz stanja prijave i ima proces koji korisnik sam definira.
 
