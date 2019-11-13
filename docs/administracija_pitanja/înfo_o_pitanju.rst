@@ -1,2 +1,0 @@
-Informacije o pitanju
-^^^^^^^^^^^^^^^^^^^^^^^^
