@@ -1,4 +1,4 @@
-Uređivanje, aktivacija/deaktivacija i brisanje ispita
+Uređivanje, aktivacija/deaktivacija, brisanje ispita i lista prijava
 =====================================================
 
 Izmjena podataka postojećeg ispita
