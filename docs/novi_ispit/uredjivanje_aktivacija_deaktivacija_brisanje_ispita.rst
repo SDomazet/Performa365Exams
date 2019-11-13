@@ -23,4 +23,7 @@ Brisanje ispita
 - Otvoriti će se novi prozor s pitanjem *Ispit će biti trajno izbrisan. Da li ste sigurni?*
 - Ukoliko ste sigurni da želite izbrisati ispit kliknite narebu *Confirm* (potvrdi) i ispit će biti trajno izbrisan
 
+Lista prijava
+^^^^^^^^^^^^^^^^^^^^
+
 
