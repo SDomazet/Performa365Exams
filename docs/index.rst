@@ -115,6 +115,14 @@ Sve se aktivnosti u sustavu evidentiraju što omogućuje detaljnu analizu i nakn
    monitoring_roka/za_vrijeme_ispitnog_roka
    monitoring_roka/nakon_ispitnog_roka
    
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: PROFIL
+   
+   
+   
 
   
    
