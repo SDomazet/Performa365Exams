@@ -73,6 +73,8 @@ Sve se aktivnosti u sustavu evidentiraju što omogućuje detaljnu analizu i nakn
    administracija_pitanja/aktiviranje_pitanja
    administracija_pitanja/deaktiviranje_pitanja
    administracija_pitanja/brisanje_pitanja
+   administracija_pitanja/pregled_pitanja
+   administracija_pitanja/informacije_o_pitanju
 
 .. toctree::
    :maxdepth: 2
