@@ -119,6 +119,14 @@ Sve se aktivnosti u sustavu evidentiraju što omogućuje detaljnu analizu i nakn
 .. toctree::
    :maxdepth: 2
    :hidden:
+   :caption: ADMINISTRACIJA KORISNIKA
+   
+   administracija_korisnika
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
    :caption: PROFIL
    
    moj_profil
